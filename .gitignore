@@ -189,3 +189,5 @@ GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
 TelegramSpellBot/apikey.txt
+TelegramSpellBot/en_US.aff
+TelegramSpellBot/en_US.dic
